@@ -1,0 +1,6 @@
+bullmq
+google-generativeai
+psycopg2
+pdfplumber
+python-dotenv
+flask

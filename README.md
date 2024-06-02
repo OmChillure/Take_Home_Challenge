@@ -1,32 +1,41 @@
-# Canvas-AI
-A online art evaluator and marketplace for all art fanatics.
+<h1 align="center">Welcome to pdfy 👋</h1>
+<p>
+  <a href="https://www.npmjs.com/package/pdfy" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/pdfy.svg">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/OmChillure" target="_blank">
+    <img alt="Twitter: OmChillure" src="https://img.shields.io/twitter/follow/OmChillure.svg?style=social" />
+  </a>
+</p>
 
-## Tech Stack
-1. Nextjs 
-2. Supabase (f/ db)
-3. Clerk (f/ auth)
-4. Drizzle (f/ orm) 
-5. Vercel (f/ hosting)
-6. Tailwind (f/ css)
-7. Typescript (f/ types)
-8. UploadThing (f/ file upload)
+> A open-source pdf summarizer and question answering website.
 
-## Getting Started Locally
-*NOTE: If you don't have pnpm installed, use npm instead*
-1. Clone repo locally 
-```bash
-git clone <repo-url>
-```
-2. Install Dependencies
-```bash
-pnpm install
-```
-3. Run dev script  
-```bash
-pnpm dev
+## Install
+
+```sh
+npm install 
 ```
 
-## Project Stats
-![Canvas-AI](https://repobeats.axiom.co/api/embed/95a8e539785dda7a124bca09dd2c088a77d65bc8.svg "Repobeats analytics image")
+## Usage
 
+```sh
+npm run dev
+```
 
+## Author
+
+👤 **Om Chillure**
+
+* Twitter: [@OmChillure](https://twitter.com/OmChillure)
+* Github: [@OmChillure](https://github.com/OmChillure)
+* LinkedIn: [@omchillure](https://linkedin.com/in/omchillure)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
